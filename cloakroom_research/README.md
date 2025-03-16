@@ -35,12 +35,12 @@
 Дальше посмотрим на корреляцию и гистограмму значений.
 
 <figure>
-    <img src="static/correlation.png" alt="Описание изображения" width="400">
+    <img src="static/correlation.png" alt="Correlation" width="500">
     <figcaption>Корреляция признаков</figcaption>
 </figure>
 
 <figure>
-    <img src="static/histogram.png" alt="Описание изображения" width="400">
+    <img src="static/histogram.png" alt="Histogram" width="500">
     <figcaption>Гистограмма количества номерков по интервалам</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@
 
 Получаются следующие результаты MAPE для каждой модели:
 
-| Model  | MSE    |
+| Model  | MAPE   |
 ---------|---------
 | Ridge  | 328.80 |
 | Lasso  | 318.21 |
